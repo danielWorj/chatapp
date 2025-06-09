@@ -31,5 +31,6 @@ public class MessageRoomMember {
     private Boolean isAdmin ;
 
     private LocalDateTime lastSeen ;
+    private LocalDateTime lastLogin ;
 
 }

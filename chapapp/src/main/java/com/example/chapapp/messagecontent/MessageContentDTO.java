@@ -22,7 +22,7 @@ public class MessageContentDTO {
 
     private MessageType messageType;
 
-    private MessageRoom messageRooms;
+    private UUID messageRooms;
 
     private String sender;
 }
